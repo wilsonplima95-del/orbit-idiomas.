@@ -1,0 +1,15 @@
+{
+  "name": "Orbit · Idiomas com propósito",
+  "short_name": "Orbit",
+  "description": "Pratique idiomas com constância profissional.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#091E28",
+  "background_color": "#091E28",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
